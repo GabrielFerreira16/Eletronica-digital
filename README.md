@@ -11,6 +11,6 @@
   • Buzzer<br>
   • Botão <br>
   • Jumpers Macho-Macho <br>
-  • Protoboard
+  • Protoboard <br>
   • 2 Arames
 </P>
