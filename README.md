@@ -14,3 +14,16 @@
   • Protoboard <br>
   • 2 Arames
 </P>
+
+# Equipe
+<p>
+ Gabriel Ferreira do Monte
+  
+ Allan Martins Gadelha
+  
+ Pedro Henrique Lopes Sá de Farias
+ 
+ João Pedro Lopes Machado
+ 
+ Mário Soares Néo
+</p>
